@@ -1,0 +1,7 @@
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\bin\Debug\AtcsAutoDeleteScreenshot.exe.config
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\bin\Debug\AtcsAutoDeleteScreenshot.exe
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\bin\Debug\AtcsAutoDeleteScreenshot.pdb
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\bin\Debug\MySql.Data.dll
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\obj\Debug\AtcsAutoDeleteScreenshot.csprojResolveAssemblyReference.cache
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\obj\Debug\AtcsAutoDeleteScreenshot.exe
+G:\DEV\AtcsAutoDeleteScreenshot\AtcsAutoDeleteScreenshot\obj\Debug\AtcsAutoDeleteScreenshot.pdb
